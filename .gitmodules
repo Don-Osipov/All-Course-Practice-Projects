@@ -1,3 +1,18 @@
 [submodule "Forkify__recipe-project__udemy"]
 	path = Forkify__recipe-project__udemy
 	url = https://github.com/Don-Osipov/Forkify__recipe-project__udemy
+[submodule "Budgety__budgeting-app__udemy"]
+	path = Budgety__budgeting-app__udemy
+	url = https://github.com/Don-Osipov/Budgety__budgeting-app__udemy
+[submodule "Pig__dice-game__udemy"]
+	path = Pig__dice-game__udemy
+	url = https://github.com/Don-Osipov/Pig__dice-game__udemy
+[submodule "Natours__fictional-company-website__udemy"]
+	path = Natours__fictional-company-website__udemy
+	url = https://github.com/Don-Osipov/Natours__fictional-company-website__udemy
+[submodule "Trillo__fictional-hotel-booking__udemy"]
+	path = Trillo__fictional-hotel-booking__udemy
+	url = https://github.com/Don-Osipov/Trillo__fictional-hotel-booking__udemy
+[submodule "Nexter__fictional-real-estate-company__udemy"]
+	path = Nexter__fictional-real-estate-company__udemy
+	url = https://github.com/Don-Osipov/Nexter__fictional-real-estate-company__udemy
